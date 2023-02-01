@@ -1,6 +1,3 @@
-
-**gagangiri05/gagangiri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hi there! My name is Gagan Giri, and I'm a graduate student at The University of Illinois at Chicago.<br><br>I'm very passionate about building performant applications that will help make our lives simpler.
 
