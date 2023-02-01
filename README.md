@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 **gagangiri05/gagangiri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -23,5 +21,5 @@ username=gagangiri05&theme=dark&hide_border=false&include_all_commits=true&count
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
+
