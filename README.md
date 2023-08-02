@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! My name is Gagan Giri, and I'm a graduate student at The University of Illinois at Chicago.<br><br>I'm very passionate about building performant applications that will help make our lives simpler.
+Hi there! My name is Gagan Giri, and I'm a Master of Science in Computer Science graduate from The University of Illinois at Chicago.<br><br> I love building logic and solving probelms. My work includes projects ranging from software development to machine learning.
+<br><br>I'm very passionate about building performant applications that will help make our lives simpler.
 
 
 ## 🌐 Socials:
