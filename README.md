@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Gagan Giri, and I'm a Master of Science in Computer Science graduate from The University of Illinois at Chicago.<br><br> I love building logic and solving probelms. My work includes projects ranging from software development to machine learning.
-<br><br>I'm very passionate about building performant applications that will help make our lives simpler.
+Hi, I’m Gagan Giri, a Salesforce developer who builds Agentforce agents, Lightning Web Components and integrations for enterprise clients.<br><br>For 2.5+ years at Salesforce, Inc., I’ve delivered custom Customer 360 solutions for many clients.<br><br>I hold an M.S. in Computer Science from the University of Illinois Chicago. Beyond Salesforce, I’ve built projects in software development and machine learning
 
 
 ## 🌐 Socials:
@@ -12,12 +11,6 @@ Hi there! My name is Gagan Giri, and I'm a Master of Science in Computer Science
 ![](https://github-readme-stats.vercel.app/api?username=gagangiri05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gagangiri05&theme=dark&hide_border=false)<br/>
 
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@GaganGiri007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 
